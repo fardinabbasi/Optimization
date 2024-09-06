@@ -1,0 +1,9 @@
+[submodule "Linear_Programming"]
+	path = Linear_Programming
+	url = https://github.com/fardinabbasi/Linear_Programming
+[submodule "Dynamic_Programming"]
+	path = Dynamic_Programming
+	url = https://github.com/fardinabbasi/Dynamic_Programming
+[submodule "Non_Convex"]
+	path = Non_Convex
+	url = https://github.com/fardinabbasi/Non_Convex_Optimization
